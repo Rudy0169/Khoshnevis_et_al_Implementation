@@ -1,0 +1,16 @@
+# Core neuroimaging / signal processing
+mne>=1.3.0
+nolds>=0.6.0
+antropy>=0.1.6
+
+# Numerical / scientific
+numpy>=1.24.0
+scipy>=1.10.0
+scikit-learn>=1.2.0
+
+# Deep learning
+torch>=2.0.0
+
+# Visualisation
+matplotlib>=3.7.0
+seaborn>=0.12.0
