@@ -1,0 +1,6 @@
+*.npy
+*.set
+*.fdt
+drive/
+.config/
+__pycache__/
