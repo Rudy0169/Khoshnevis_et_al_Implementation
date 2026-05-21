@@ -1,6 +1,30 @@
+# Dataset files (large / raw)
 *.npy
 *.set
 *.fdt
+*.edf
+*.bdf
+
+# Google Drive mount artefacts
 drive/
 .config/
+
+# Python
 __pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+.eggs/
+.env
+.venv
+env/
+venv/
+
+# Jupyter / IPython
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# OS
+.DS_Store
+Thumbs.db
